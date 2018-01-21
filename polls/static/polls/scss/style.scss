@@ -1,0 +1,25 @@
+body, html {
+  width: 100%;
+}
+
+.heading {
+  padding-top: 5%;
+  cursor: pointer;
+
+}
+
+.heading a:hover {
+  text-decoration: none;
+}
+
+.vote {
+  width: 50%;
+  padding-top: 10%;
+  margin: 0 auto;
+
+
+  .choices {
+    padding-left: 10%;
+  }
+
+}
